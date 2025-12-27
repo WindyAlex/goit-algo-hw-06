@@ -1,6 +1,6 @@
 # Task 1 summary: Graph analysis
 
-Vertices: 9
+Vertices: 9  
 Edges: 10
 
 Degree of vertices:  
